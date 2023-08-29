@@ -9,4 +9,4 @@
 </table>
 
 # License
-Voir le fichier [License](https://github.com/p-bruno/2TSSI-SISR/blob/main/LICENSE.txt) pour connaître les autorisations et limites.
+Tous les documents disponibles sur cette page sont sous licence [Creative Commons (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).	<img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png">
