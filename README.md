@@ -3,7 +3,7 @@
 <table cellspacing="0" cellpadding="0" style="border-collapse:collapse; margin:auto;">
 <tr>
     <td colspan=6 style="text-align: center;">
-      <a title="Numerisation" href="./Supervision"><img src='./assets/supervision-icon.svg' width="128px"/><br/>Supervision</a>
+      <a title="Numerisation" href="./Numerisation"><img src='./assets/icon-numerisation.svg' width="128px"/><br/>Numérisation</a>
     </td>
 </tr>
 </table>
